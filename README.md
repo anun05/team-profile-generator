@@ -20,7 +20,7 @@
   ## Usage
    Begin to use this by running node index.js to the command line and answer the following questions prompted. After all question's have been asnwered, an html page is genertaed that prompts the user with different cards with different employee information. 
   
-  Demo video link: [Demo Video] "https://drive.google.com/file/d/1pdwlvTRRJa6xwzQL_8Z73cYHkkZBXcay/preview"
+  Demo video link: [Demo Video] https://drive.google.com/file/d/1pdwlvTRRJa6xwzQL_8Z73cYHkkZBXcay/preview
 
 
   ## Contributing
